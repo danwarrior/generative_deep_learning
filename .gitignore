@@ -6,3 +6,4 @@ __pycache__/
 
 /data/cifar10/
 /.idea/
+/notebooks/.ipynb_checkpoints/
